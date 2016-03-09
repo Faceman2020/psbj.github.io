@@ -1,0 +1,19 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.3.4.2"
+		}
+
+		"Notes"	"Patch notes can be found here: http://steamcommunity.com/groups/tankrush2"
+	}
+	
+	"Files"
+	{
+		"Plugin"	"Path_SM/plugins/tankrush2.smx"
+		"Plugin"	"Path_SM/gamedata/tankrush2.txt"
+		"Source"	"Path_SM/scripting/tankrush2.sp"
+	}
+}
